@@ -30,7 +30,7 @@ class Question{
   }
 
   static .find(id){
-    
+
   }
 }
 
