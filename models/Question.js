@@ -36,7 +36,7 @@ class Question{
         const question = new Question(result.content)
         question.id = result.id
       resolve (question)
-      }
+    })
 
     })
 
