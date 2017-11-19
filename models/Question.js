@@ -30,6 +30,9 @@ class Question{
   }
 
   static Find(id){
+    return new (function (resolve) {
+      resolve (this.id)
+    })
 
   }
 }
