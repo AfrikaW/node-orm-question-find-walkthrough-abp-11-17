@@ -29,6 +29,9 @@ class Question{
     })
   }
 
+  static .find(){
+    
+  }
 }
 
 module.exports = Question;
