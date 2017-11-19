@@ -29,7 +29,7 @@ class Question{
     })
   }
 
-  static .find(){
+  static .find(id){
     
   }
 }
