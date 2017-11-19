@@ -31,8 +31,8 @@ class Question{
 
   static Find(id){
     return new (function (resolve) {
-      const self = this
-      resolve (self.id)
+      const question = new question
+      resolve (question)
     })
 
   }
